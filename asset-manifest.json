@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.03b908e9.css",
-    "main.js": "/static/js/main.dc3698be.js",
-    "static/js/787.0c9ded66.chunk.js": "/static/js/787.0c9ded66.chunk.js",
-    "static/media/address.png": "/static/media/address.2b316c48d1cbab8a67fb.png",
-    "static/media/website.png": "/static/media/website.fc09fb742e358076539f.png",
-    "index.html": "/index.html",
-    "main.03b908e9.css.map": "/static/css/main.03b908e9.css.map",
-    "main.dc3698be.js.map": "/static/js/main.dc3698be.js.map",
-    "787.0c9ded66.chunk.js.map": "/static/js/787.0c9ded66.chunk.js.map"
+    "main.css": "/basicContactsApp/static/css/main.03b908e9.css",
+    "main.js": "/basicContactsApp/static/js/main.a1d6137f.js",
+    "static/js/787.0c9ded66.chunk.js": "/basicContactsApp/static/js/787.0c9ded66.chunk.js",
+    "static/media/address.png": "/basicContactsApp/static/media/address.2b316c48d1cbab8a67fb.png",
+    "static/media/website.png": "/basicContactsApp/static/media/website.fc09fb742e358076539f.png",
+    "index.html": "/basicContactsApp/index.html",
+    "main.03b908e9.css.map": "/basicContactsApp/static/css/main.03b908e9.css.map",
+    "main.a1d6137f.js.map": "/basicContactsApp/static/js/main.a1d6137f.js.map",
+    "787.0c9ded66.chunk.js.map": "/basicContactsApp/static/js/787.0c9ded66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03b908e9.css",
-    "static/js/main.dc3698be.js"
+    "static/js/main.a1d6137f.js"
   ]
 }
