@@ -18,7 +18,7 @@ function App() {
   document.body.className = 'bg-dark';
 
   return (
-    <div className="App d-flex flex-column gap-3">
+    <div className="App d-flex flex-column">
       {data &&
         data.map((info, i) => {
           return <InfoCard key={i} person={info} />;

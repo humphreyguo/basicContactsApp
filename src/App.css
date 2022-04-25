@@ -8,6 +8,20 @@
   font-family: 'Inter', sans-serif;
 }
 
+@media (max-width: 1000px) {
+  .App {
+    margin: 0 8rem;
+    padding: 5rem 2rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .App {
+    margin: 0;
+    padding: 5rem 1rem;
+  }
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
