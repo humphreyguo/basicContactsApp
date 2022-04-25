@@ -13,7 +13,6 @@ function App() {
 
   useEffect(() => {
     fetchContacts();
-    // console.log(data);
   }, []);
 
   document.body.className = 'bg-dark';
